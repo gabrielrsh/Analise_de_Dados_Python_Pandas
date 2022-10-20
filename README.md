@@ -1,7 +1,7 @@
 # Analise de Dados com Python e Pandas
 > Este projeto foi desenvolvido seguindo o curso da plataforma [DIO](https://web.dio.me/).
 
-Projeto para realizar uma análise exploratória em uma base de dados de vendas de produtos, chamada AdventureWorks fornecida pela Microsoft. 
+Projeto para realizar uma análise exploratória sobre uma base de dados chamada AdventureWorks, fornecida pela Microsoft, esta contém dados de vendas de produtos. 
 
 Foram realizadas operações sobre conjunto de dados para extrair outras informações e também a construção de gráficos. 
 
